@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Next.js, Prisma, AWS**
 
-- 💬 Ask me about **react, typescript, graphql**
+- 💬 Ask me about **react, typescript, graphql, tailwindcss**
 
 - 📫 How to reach me **gavilan.salcedo@gmail.com**
 
