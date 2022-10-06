@@ -1,4 +1,4 @@
-<h3 align="center">A JavaScript apologist from the Philippines</h3>
+<h3 align="center">A JavaScript apologist</h3>
 
 <p align="left"> <a href="https://twitter.com/gavisalcedo" target="blank"><img src="https://img.shields.io/twitter/follow/gavisalcedo?logo=twitter&style=for-the-badge" alt="gavisalcedo" /></a> </p>
 
