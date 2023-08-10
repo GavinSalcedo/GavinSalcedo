@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 JavaScript Apologist and Vim Enthusiast
 ---------------------------------------
 
-Developer, Musician, and Student of the game
+Developer, Musician, and a Student of the game
 
 * 🌍  I'm based in Manila, PH
 * ✉️  You can contact me at [gavilan.salcedo@gmail.com](mailto:gavilan.salcedo@gmail.com)
