@@ -6,7 +6,6 @@ JavaScript Apologist and Vim Enthusiast
 Developer, Musician, and a Student of the game
 
 * 🌍  I'm based in Manila, PH
-* ✉️  You can contact me at [gavilan.salcedo@gmail.com](mailto:gavilan.salcedo@gmail.com)
 * ⚡  I'm secretly SpiderMan........but don't tell anyone
 
 
